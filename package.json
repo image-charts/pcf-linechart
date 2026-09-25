@@ -1,6 +1,6 @@
 {
   "name": "@image-charts/pcf-linechart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Image-Charts Line Chart Generator for Microsoft Power Apps (PCF Component)",
   "main": "solution/ImageChartsLineChart.zip",
   "types": "src/LineChartGenerator/index.d.ts",
