@@ -25,8 +25,8 @@ LineChartGenerator.labels = "Jan,Feb,Mar,Apr,May"
 
 | Property | Type | Required | Description |
 |----------|------|----------|-------------|
-| `accountId` | Text | No* | Enterprise Account ID |
-| `secretKey` | Text | No* | Enterprise Secret Key |
+| `accountId` | Text | No* | Paid plan account ID |
+| `secretKey` | Text | No* | Paid plan secret key |
 | `privateCloudDomain` | Text | No* | Private Cloud domain |
 | `data` | Text | **Yes** | Line values (CSV or pipe-separated) |
 | `labels` | Text | No | X-axis labels |
